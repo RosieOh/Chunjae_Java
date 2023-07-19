@@ -42,4 +42,4 @@ public class Example1 {
 
 // vsCode나 Ecllips는 bin(binary) 폴더에 생김
 // bin(binary) - 2진수 전환 폴더
-// 인텔리제이는 out 파일로 class 저장
+// 인텔리제이는 out 파일로 class 저장 / 터미널은 한글 인식 불가 따라서 저장시 UTF-8로 저장

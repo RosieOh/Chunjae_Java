@@ -34,3 +34,12 @@ public class Example1 {
 //        int[] arr = new int[100];
     }
 }
+
+// 1. 소스파일 - (파일이름).java
+// 2. 컴파일 : javac (파일이름).java => (파일이름).class 파일로 생성
+// 3. load.module 생성 : 실행가능한 모듈 생성
+// 4. java (파일이름) 타이핑
+
+// vsCode나 Ecllips는 bin(binary) 폴더에 생김
+// bin(binary) - 2진수 전환 폴더
+// 인텔리제이는 out 파일로 class 저장

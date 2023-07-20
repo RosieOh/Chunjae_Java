@@ -24,6 +24,8 @@ class SAThread extends Thread {
         }
     }
 }
+
+// 쓰레드 실행
 public class Thread3 {
     public static void main(String[] args) {
         Thread th1 = new SAThread();
